@@ -2,4 +2,4 @@
 
 This is a mini project for web programming
 
-successful set up of git on vs code
+successful set up of git on vs code.
